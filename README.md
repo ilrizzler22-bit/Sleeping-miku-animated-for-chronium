@@ -4,7 +4,7 @@ A minimalist dark theme featuring **Miku cyan** accent colors, designed for Brav
 
 ---
 
-## 🚀 How to Install
+##  How to Install
 
 1. **Download the theme**: Download the `miku-azzurro 2.0.zip` file (or the repository folder) from this page.
 2. **Extract the ZIP**: Unzip the file on your computer.

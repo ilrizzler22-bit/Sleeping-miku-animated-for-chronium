@@ -18,6 +18,8 @@ A minimalist dark theme featuring **Miku cyan** accent colors, designed for Brav
 ---
 
 *Enjoy your new theme!*
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c24dd1b-0f8e-4023-b3bf-e261b542a950" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc77b898-305a-4dda-9f1d-46947ce4d91e" />
 

@@ -1,4 +1,4 @@
-# 🩵 Sleeping Miku Animated Theme for Chromium
+# 🩵 blue light and dark Theme for Chromium-based browser
 
 A minimalist dark theme featuring **Miku cyan** accent colors, designed for Brave, Chrome, and all Chromium-based browsers.
 
@@ -6,7 +6,7 @@ A minimalist dark theme featuring **Miku cyan** accent colors, designed for Brav
 
 ## 🚀 How to Install
 
-1. **Download the theme**: Download the `miku-azzurro.zip` file (or the repository folder) from this page.
+1. **Download the theme**: Download the `miku-azzurro 2.0.zip` file (or the repository folder) from this page.
 2. **Extract the ZIP**: Unzip the file on your computer.
 3. **Open Extensions page**:
    - On **Brave**: go to `brave://extensions`
